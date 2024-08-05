@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/emanuelevaini"><img src="https://api.daily.dev/devcards/v2/oejvT0ca6XQysLx59uGtV.png?type=default&r=kzl" width="356" alt="Emanuele Vaini's Dev Card"/></a>
 ## Hi there 👋
 
 <!--
